@@ -1,2 +1,5 @@
-# CS360-Portfolio
-My Computer Science projects from SNHU
+CS 360 Inventory Manager App
+
+For my CS 360 project, I created an Inventory Manager app that helps users keep track of their inventory. The goal was to make an app that was simple to use while still having the features needed to manage items. Users can create an account, log in, add inventory, update quantities, and delete items. I also included notification settings for low inventory. I wanted the screens to be easy to understand so users could move through the app without getting confused.
+
+I started by designing the screens and then worked on connecting everything using Java and XML in Android Studio. I used SQLite to save account information and inventory data so it would still be there after closing the app. One of the biggest challenges was fixing errors and getting the app to run correctly on the emulator. I tested the features as I worked and made changes whenever something wasn’t working. This helped me understand why testing is important during development. I think getting the account creation, login, and inventory features working was my biggest accomplishment. This project helped me improve my coding and troubleshooting skills, and I can use what I learned when building other apps in the future.
